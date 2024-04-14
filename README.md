@@ -3,15 +3,10 @@
   <img src="https://github.com/krovuxdev/nix-skeleton/assets/62192487/01aa0057-da80-4e11-8724-b3da458bcc79" width="30"> Nix Skeleton for <a href="https://github.com/krovuxdev">krovuxdev</a>
 </h1>
   <p>
-    <a href="https://github.com/krovuxdev/nix-skeleton/stargazers">
-        <img src="https://img.shields.io/github/stars/krovuxdev/nix-skeleton?style=for-the-badge&labelColor=212A3E&color=15181a">
-    </a>
-    <a href="https://github.com/krovuxdev/dotfiles/-/commits/nixos">
-      <img src="https://img.shields.io/github/commit-activity/t/krovuxdev/nix-skeleton?style=for-the-badge&labelColor=212A3E&color=15181a">
-    </a>
-    <a href="https://nixos.wiki/wiki/Flakes" target="_blank">
-      <img alt="Nix Flakes Ready" src="https://img.shields.io/static/v1?logo=nixos&logoColor=d8dee9&label=Nix%20Flakes&labelColor=212A3E&message=Ready&color=15181a&style=for-the-badge">
-    </a>
+
+[![GitHub stars](https://img.shields.io/github/stars/krovuxdev/nix-skeleton?style=for-the-badge&labelColor=212A3E&color=15181a)](https://github.com/krovuxdev/nix-skeleton/stargazers)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/krovuxdev/nix-skeleton?style=for-the-badge&labelColor=212A3E&color=15181a)](https://github.com/krovuxdev/dotfiles/-/commits/nixos)
+[![Nix Flakes Ready](https://img.shields.io/static/v1?logo=nixos&logoColor=d8dee9&label=Nix%20Flakes&labelColor=212A3E&message=Ready&color=15181a&style=for-the-badge)](https://nixos.wiki/wiki/Flakes)
   </p>
 </div>
 

@@ -4,7 +4,7 @@
     templates = {
         rust = {
             path = ./templates/rust;
-            description = "A Rust proyect template"
+            description = "A Rust proyect template";
           };
       };
     defaultTemplate = self.templates.rust;

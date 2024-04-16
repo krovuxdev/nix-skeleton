@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">
-  <img src="https://github.com/krovuxdev/nix-skeleton/assets/62192487/01aa0057-da80-4e11-8724-b3da458bcc79" width="30"> Nix Skeleton for <a href="https://github.com/krovuxdev">krovuxdev</a>
+  <img src="https://github.com/krovuxdev/nix-skeleton/assets/62192487/01aa0057-da80-4e11-8724-b3da458bcc79" width="30"> Nix Skeleton by <a href="https://github.com/krovuxdev">krovuxdev</a>
 </h1>
   <p>
 

@@ -6,6 +6,10 @@
             path = ./templates/rust;
             description = "A Rust proyect template";
           };
+        python = {
+            path = ./templates/python;
+            description = "A python proyect template";
+          };
       };
     defaultTemplate = self.templates.rust;
   };

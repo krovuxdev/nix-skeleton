@@ -5,7 +5,7 @@
   <p>
 
 [![GitHub stars](https://img.shields.io/github/stars/krovuxdev/nix-skeleton?style=for-the-badge&labelColor=212A3E&color=15181a)](https://github.com/krovuxdev/nix-skeleton/stargazers)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/krovuxdev/nix-skeleton?style=for-the-badge&labelColor=212A3E&color=15181a)](https://github.com/krovuxdev/dotfiles/-/commits/nixos)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/krovuxdev/nix-skeleton?style=for-the-badge&labelColor=212A3E&color=15181a)](https://github.com/krovuxdev/nix-skeleton/activity)
 [![Nix Flakes Ready](https://img.shields.io/static/v1?logo=nixos&logoColor=d8dee9&label=Nix%20Flakes&labelColor=212A3E&message=Ready&color=15181a&style=for-the-badge)](https://nixos.wiki/wiki/Flakes)
   </p>
 </div>

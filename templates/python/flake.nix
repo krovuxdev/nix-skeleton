@@ -28,7 +28,6 @@
       in
         f {
           inherit pkgs;
-          system = "${system}";
           nativeBuildInputs = with pkgs; [
             python3
             #add you packages

@@ -12,5 +12,8 @@
           };
       };
     defaultTemplate = self.templates.rust;
+    #alias
+    rs = self.templates.rust;
+    py = self.templates.python;
   };
 }

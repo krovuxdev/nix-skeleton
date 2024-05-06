@@ -24,5 +24,9 @@ nix flake init --template github:krovuxdev/nix-skeleton#rust
 ```bash
 nix flake init --template github:krovuxdev/nix-skeleton#python
 ```
+### PHP Template
+```bash
+nix flake init --template github:krovuxdev/nix-skeleton#php
+```
 # Thanks
 ![tenor](https://github.com/krovuxdev/nix-skeleton/assets/62192487/d84578e1-6560-473a-b0c3-458a54d8afe5)

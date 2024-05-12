@@ -20,6 +20,10 @@ To use this template, run the following command:
 ```bash
 nix flake init --template github:krovuxdev/nix-skeleton#rust
 ```
+### Rust Template for BevyEngine
+```bash
+nix flake init --template github:krovuxdev/nix-skeleton#rust#bevy
+```
 ### Python Template
 ```bash
 nix flake init --template github:krovuxdev/nix-skeleton#python

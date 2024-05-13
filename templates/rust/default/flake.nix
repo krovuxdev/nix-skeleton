@@ -29,7 +29,9 @@
         pkgs = import nixpkgs {
           inherit system overlays;
         };
-        rust = pkgs.buildPackages.rust-bin.stable.latest.minimal;
+                                  #Default Version: 'stable'
+                                  #Values Version: 'stable', 'beta' ,'nightly'
+        rust = pkgs.buildPackages.rust-bin.stable.latest.minimal; # values latest: 'minimal', 'default'
       in
         f {
           inherit pkgs;
